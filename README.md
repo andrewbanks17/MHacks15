@@ -1,2 +1,2 @@
 # MHacks15
-This program ustilizes a webcam
+This program uses 2 spark cores to communicate with eachother over a network.
